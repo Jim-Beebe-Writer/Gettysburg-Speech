@@ -1,6 +1,6 @@
-\#Gettysburg Address#
+# Gettysburg Address #
 
-\*To be delivered 11/9/1863\*
+*To be delivered 11/9/1863*
 
 
 
